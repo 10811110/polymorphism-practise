@@ -9,3 +9,4 @@
 6.按照編號排序
 7.清空所有文檔
 功能
+![image](https://github.com/10811110/polymorphism-practise/blob/main/%E7%95%AB%E9%9D%A2.png)
